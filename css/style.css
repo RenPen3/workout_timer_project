@@ -1,0 +1,26 @@
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.con__inner {
+  margin-inline: auto;
+  text-align: center;
+  width: min(100%, 500px);
+}
+
+#result {
+  font-size: 5em;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+  height: 300px;
+  background: #fff;
+  border-radius: 7px;
+  margin-bottom: 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */
